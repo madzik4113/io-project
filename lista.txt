@@ -1,0 +1,33 @@
+Osoba -- funkcje --- [priorytet]
+
+
+Klient (Użytkownik) :
+-rejestracja [1]
+	*login & hasło & e-mail [1]
+	*dane osobowe [1]
+-logowanie [1]
+	*login & hasło [1] 
+-przeglądanie ksiazek [1]
+	-filtracja [2]
+		*po nazwie [2]
+		*po cenie [2]
+		*po gatunku [2]
+-wyszukiwanie [2]
+-dodanie do koszyka [1]
+-przeglad koszyka [2]
+-mozliwosc złożenia zamowienia [1]
+
+Admin:
+ -logowanie [1]
+-dodawanie uprawnien [3]
+-mozliwosc edycji, usuwanie uzytkownikow [2]
+-dodawanie nowych tytułów [1]
+-edycjia istniejących tytułów [1]
+-przyjecie zamowienia [1]
+-wyslanie potwierdzenia do pliku/JavaMail [2
+
+Klient - osoba zarejestrowana w bazie wraz ze wszystkimi danymi 
+Admin - osoba zarejestrowana w brazie posiadająca uprawnienia do dodawania edyci ksiązek , przyjmowanie zamowienia , generowania potwierdzenia, mozliwosci edycji lub usunięcia klienta
+
+
+repozytorium GIT , github , wyslanie adresu 
