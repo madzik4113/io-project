@@ -1,0 +1,42 @@
+TESTY U¯YTKOWNIKA 
+
+Test ID 1 Rejestracja u¿ytkownika
+1. po w³¹czeniu programu u¿ytkownik klika w przycisk rejestracji
+2. po otwarciu panelu rejestracji u¿ytkownik wprowadza adres e-mail, has³o, login oraz wszystkie swoje dane osobowe do wysy³ki
+3. u¿ytkownik klika w przycisk zarejestruj w celu dodania do bazy danych
+4. po rejestracji zakoñcznej sukcesem u¿ytkownik zostaje przekierowany na panel zakupów
+
+Test ID 2 Logowanie 
+1. u¿ytkownik po w³¹czeniu programu klika w przycisk "Zaloguj siê"
+2. po przeniesieniu na stronê logowania u¿ytkownik w polu 'login' wprowadza login
+3. w polu 'has³o' wprowadza has³o ustalone podczas rejestracji
+4. nastêpnie klika przycik zaloguj siê 
+5. logowanie zakoñczy siê sukcesem gdy u¿ytkownik zostanie przeniesiony do panelu zakupów
+
+Test ID 3 Przegl¹danie ksi¹¿êk 
+1. po pomyœlnym zalogowaniu siê uzytkownikowi wyswietlany jest panel przegladania ksiazek.
+2. Uzytkownik ma mozliwosc filtracji ksiazek za pomoca nazwy po kliknieciu przycisku filtruj za pomoca nazwy i wpisaniu nazwy.
+3. Uzytkownik ma mozliwosc filtracji ksiazek za pomoca ceny po kliknieciu przycisku filtruj za pomoc¹ ceny i wpisaniu ceny.
+4. Uzytkownik ma mozliwosc filtracji ksiazek za pomoca gatunku po kliknieciu przycisku filtruj za pomoca gatunku i wybraniu odpowiedniego z rozwijane listy gatunków.
+Test zakonczony sukcesem jeœli wszystkie testowane przypadki zwróc¹ listê ksi¹¿ek przefiltrowanych za pomoc¹ danego kryterium.
+
+Test ID 4 Wyszukiwanie
+1. Uzytkownikowi po poprawnym zalogowaniu sie do panelu wyswietla sie w prawym gornym rogu pole do wprowadzania tekstu.
+2. Uzytkownikowi po wpisaniu w tym polu danego tytu³u ukazuje sie lista z wyszukanymi pozycjami. - test zakonczony sukcesem.
+
+Test ID 5 Dodanie do koszyka
+1.Uzytkownik po poprawnym zalogowaniu sie do panelu wybiera dowolona ksiazke.
+2.Po wybraniu wybranego towaru uzytkownik klika w przycisk "dodaj do koszyka".
+Test zakonczony sukcesem jesli wyswietli sie okno dialogowe dodano do koszyka.
+
+Test ID 5.1	Przeglad koszyka
+1.Uzytkownik po poprawnym dodaniu towaru do koszyka ma mozliwosc klikniecia w przycisk "przegladaj koszyk".
+2.Po kliknieciu na ten przycisk uzytkownik jest przekierowany do okna w ktorym widnieje zawartosc koszyka (wszystkie zakupy).
+Test zakonczony sukcesem w momencie ukazania sie zawartosci koszyka.
+
+Test ID 6 Zlozenie zamowienia
+1.Uzytkownik loguje sie do panelu oraz dodaje przedmioty do koszyka
+2.Uzytkownik przechodzi do koszyka w celu przegladniecia zawartosci.
+3.Uzytkownik po sprawdzeniu zawartosci klika przycisk "zloz zamowienie".
+4.Test zakonczony sukcesem po otrzymaniu systemu wiadomosci o przyjeciu zamowienia do realizacji.
+
