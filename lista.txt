@@ -5,13 +5,13 @@ Mateusz Wawrzyniak
 Osoba -- funkcje --- [priorytet]
 
 
-Klient (U¿ytkownik) :
+Klient (Uç¯¡tkownik) :
 -rejestracja [1]
-	*login & has³o & e-mail [1]
+	*login & hasé€™ & e-mail [1]
 	*dane osobowe [1]
 -logowanie [1]
-	*login & has³o [1] 
--przegl¹danie ksiazek [1]
+	*login & hasé€™ [1] 
+-przeglé‰…anie ksiazek [1]
 	-filtracja [2]
 		*po nazwie [2]
 		*po cenie [2]
@@ -19,19 +19,5 @@ Klient (U¿ytkownik) :
 -wyszukiwanie [2]
 -dodanie do koszyka [1]
 -przeglad koszyka [2]
--mozliwosc z³o¿enia zamowienia [1]
+-mozliwosc zé€™çž nia zamowienia [1]
 
-Admin:
--logowanie [1]
--mozliwosc edycji, usuwanie uzytkownikow [2]
--dodawanie nowych tytu³ów [1]
--edycjia istniej¹cych tytu³ów [1]
-	*dodawanie nowych tytu³ów [1]
--przyjecie zamowienia [1]
-       *wyslanie potwierdzenia do pliku/JavaMail [2]
-
-Klient - osoba zarejestrowana w bazie wraz ze wszystkimi danymi 
-Admin - osoba zarejestrowana w brazie posiadaj¹ca uprawnienia do dodawania edyci ksi¹zek , przyjmowanie zamowienia , generowania potwierdzenia, mozliwosci edycji lub usuniêcia klienta
-
-
-repozytorium GIT , github , wyslanie adresu 
