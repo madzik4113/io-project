@@ -4,9 +4,7 @@
 #include <string>
 using namespace std;
 
-Ksiazka::Ksiazka()
-{
-}
+
 Ksiazka::Ksiazka(string t, double c): tytul(t), cena(c)
 {
 }
