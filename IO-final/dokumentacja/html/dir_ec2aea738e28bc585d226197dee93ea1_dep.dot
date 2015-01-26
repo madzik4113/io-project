@@ -1,0 +1,10 @@
+digraph "C:/Users/Mateusz/Desktop/inter" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_ec2aea738e28bc585d226197dee93ea1 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_ec2aea738e28bc585d226197dee93ea1.html"];
+    dir_ec2aea738e28bc585d226197dee93ea1 [shape=plaintext label="inter"];
+    dir_119f36ce2533f04b4d1f439acb29287a [shape=box label="inter" color="black" fillcolor="white" style="filled" URL="dir_119f36ce2533f04b4d1f439acb29287a.html"];
+  }
+}
